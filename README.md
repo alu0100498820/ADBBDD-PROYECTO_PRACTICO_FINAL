@@ -24,3 +24,11 @@ PROYECTO PRÁCTICO FINAL
 
 ---
 #### *Descripción*
+
+##### Plantillas Proyecto Sistemas de Base de Datos
++ Plantillas ASI 1: Definición del Sistema de Bases de Datos
++ Plantillas ASI 6: Definición del modelo Entidad/Relación
++ Plantillas ASI 5: Análisis de Clases
++ Plantillas DSI 6: Elaboración del modelo lógico de datos (Modelo Relacional)
++ Plantillas CSI 2: Generación de Códigos de Componentes y Procedimientos
++ Plantillas CSI 8: Procedimientos de migración y carga inicial de datos
