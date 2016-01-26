@@ -67,11 +67,22 @@ PROYECTO PRÁCTICO FINAL
   8. Implementar una aplicación cliente servidor que se conecte a la BDD y provea información de la misma.
 
 ---
+<h3 align="Center">
+Plantillas Proyecto Sistemas de Base de Datos
+</h3>
 
-##### Plantillas Proyecto Sistemas de Base de Datos
-+ Plantillas ASI 1: Definición del Sistema de Bases de Datos
-+ Plantillas ASI 6: Definición del modelo Entidad/Relación
-+ Plantillas ASI 5: Análisis de Clases
-+ Plantillas DSI 6: Elaboración del modelo lógico de datos (Modelo Relacional)
-+ Plantillas CSI 2: Generación de Códigos de Componentes y Procedimientos
-+ Plantillas CSI 8: Procedimientos de migración y carga inicial de datos
+<p align="Center">
+(Enlaces a los documentos requeridos)
+</p>
+
+<p align="Center">
+[<img src="https://cristianopalharini.files.wordpress.com/2009/11/documents.png"title="docs" width="60" height="60">](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Documentos)
+</p>
+
++ Plantillas [ASI 1](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/ASI1.pdf): Definición del Sistema de Bases de Datos
++ Plantillas [ASI 6](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/ASI6.pdf): Definición del modelo Entidad/Relación
++ Plantillas [ASI 5](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/ASI5.pdf): Análisis de Clases
++ Plantillas [DSI 6](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/DSI6.pdf): Elaboración del modelo lógico de datos (Modelo Relacional)
++ Plantillas [CSI 2](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/CSI2.pdf): Generación de Códigos de Componentes y Procedimientos
++ Plantillas [CSI 8](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/CSI8.pdf): Procedimientos de migración y carga inicial de datos
++ [ANEXO 1](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/Anexo1-_Descripcion_dise%C3%B1o_distribuido_de_la_BD_y_dise%C3%B1o_de_fragmentaci%C3%B3n_y_asignaci%C3%B3n_.pdf): Descripción diseño distribuido de la BD y diseño de fragmentación y asignación
