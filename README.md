@@ -76,7 +76,7 @@ Plantillas Proyecto Sistemas de Base de Datos
 </p>
 
 <p align="Center">
-[<img src="https://cristianopalharini.files.wordpress.com/2009/11/documents.png"title="docs" width="60" height="60">](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Documentos)
+<a title="logo" href="https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Documentos"><img src="https://cristianopalharini.files.wordpress.com/2009/11/documents.png" alt="logo" width='60' height='60' /></a>
 </p>
 
 + Plantillas [ASI 1](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/ASI1.pdf): Definición del Sistema de Bases de Datos
@@ -86,3 +86,13 @@ Plantillas Proyecto Sistemas de Base de Datos
 + Plantillas [CSI 2](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/CSI2.pdf): Generación de Códigos de Componentes y Procedimientos
 + Plantillas [CSI 8](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/CSI8.pdf): Procedimientos de migración y carga inicial de datos
 + [ANEXO 1](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/Anexo1-_Descripcion_dise%C3%B1o_distribuido_de_la_BD_y_dise%C3%B1o_de_fragmentaci%C3%B3n_y_asignaci%C3%B3n_.pdf): Descripción diseño distribuido de la BD y diseño de fragmentación y asignación
+
+---
+
+<h3 align="Center">
+Aplicación JPA
+</h3>
+
+<p align="Center">
+<a title="logo" href="https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Aplicacion%20JPA/JavaApplication2"><img src="http://www.webgentech.org/wgte/images/forward.png" alt="logo" width='60' height='60' /></a>
+</p>
