@@ -76,7 +76,7 @@ Plantillas Proyecto Sistemas de Base de Datos
 </p>
 
 <p align="Center">
-<a title="logo" href="https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Documentos"><img src="https://cristianopalharini.files.wordpress.com/2009/11/documents.png" alt="logo" width='60' height='60' /></a>
+<a title="Enlace_a_Documentos" href="https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Documentos"><img src="https://cristianopalharini.files.wordpress.com/2009/11/documents.png" alt="Enlace_a_Documentos" width='60' height='60' /></a>
 </p>
 
 + Plantillas [ASI 1](https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/blob/master/Documentos/ASI1.pdf): Definición del Sistema de Bases de Datos
@@ -94,5 +94,5 @@ Aplicación JPA
 </h3>
 
 <p align="Center">
-<a title="logo" href="https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Aplicacion%20JPA/JavaApplication2"><img src="http://www.webgentech.org/wgte/images/forward.png" alt="logo" width='60' height='60' /></a>
+<a title="Enlace_a_la_aplicación_JPA" href="https://github.com/alu0100498820/ADBBDD-PROYECTO_PRACTICO_FINAL/tree/master/Aplicacion%20JPA/JavaApplication2"><img src="http://www.webgentech.org/wgte/images/forward.png" alt="Enlace_a_la_aplicación_JPA" width='60' height='60' /></a>
 </p>
